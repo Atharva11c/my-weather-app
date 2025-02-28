@@ -17,7 +17,6 @@ This is a SwiftUI-based Weather Forecast App that provides weather details using
 ### Prerequisites
 
 - macOS with Xcode installed (Latest version recommended)
-- Swift and SwiftUI knowledge
 - An API key from [WeatherAPI](https://www.weatherapi.com/)
 
 ### Installation Steps
